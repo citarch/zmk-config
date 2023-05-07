@@ -1,1 +1,7 @@
 
+if SHIELD_WAKIZASHI
+
+config ZMK_KEYBOARD_NAME
+  default "Wakizashi"
+  
+endif
